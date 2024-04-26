@@ -1,0 +1,86 @@
+/* Everywhere CSS */
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    /* padding: 75px; */
+}
+
+.container-title{
+    display: flex;
+    justify-content: center;
+}
+
+/* Navbar CSS */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  li a:hover{
+    background-color: #4482da;
+  }
+  
+
+  /* Footer CSS */
+
+  .footer {
+    position: fixed;
+    left: 50;
+    bottom: 50;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+  }
+
+  h1 {
+      background-color: lightblue;
+      font-display: inside-block;
+      font-size: xx-large;
+      font-style: normal;
+      
+      
+             padding-left: 170px;
+             padding-left: 170px;
+             padding-right: 100px;
+             padding-top: 100px;
+             padding-bottom: 100px;
+             border-radius: 75px;
+                       
+      
+
+      
+  }
+         
+            
+              
+  .aboutus-container{
+    background-color: lightblue;
+    border-radius: 75px;
+  }
+
+
+  
